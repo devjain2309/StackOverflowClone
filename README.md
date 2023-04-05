@@ -6,19 +6,6 @@ This is Simple StackOverFlow -Clone Website Of MernStack Website
 
 # StackOverFlow-clone
 
-- [Navbar](#navbar)
-- [Avatar](#avatar)
-- [Chatbot](#chatbot)
-- [Login,Signup page](#Login-Signup-page)
-- [Left-Sidebar](#Left-Sidebar)
-- [Right-Sidebar](#Right-Sidebar)
-- [Homebar](#HomeMainbar)
-- [Questions](#Questions)
-- [AskQuestion if you are login](#AskQuestion-1)
-- [AskQuestion if you are not login](#AskQuestion-2)
-- [DisplayQuestion](#DisplayQuestion)
-- [Other part](#other-part)
-
 ## Navbar
 
 - TODO: image of Navbar here:-
